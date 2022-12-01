@@ -1,6 +1,6 @@
 # [Day 1]
 
-`<span style="color:blue">Frameworks</span>` Someone's coming to town!
+<span style="color:blue">`Frameworks`</span> Someone's coming to town!
 
 All answers were provided after completing the **literal** puzzles in the room.
 

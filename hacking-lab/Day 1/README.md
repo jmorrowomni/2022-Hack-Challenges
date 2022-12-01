@@ -28,3 +28,5 @@ Having no luck, I finally decided to decode the QR code itself.  This required i
 ```sudo apt-get install zbar-tools```
 
 I then ran ```zbarimg``` against the file, which resulted in a decoded list of letters.  Using a combination of ```cut``` and ```sed```, I was able to successfully retrieve the flag.
+
+![Proof](success.png)

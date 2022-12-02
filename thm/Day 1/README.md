@@ -1,6 +1,8 @@
 # [Day 1]
 
-[Framework] All answers were provided after completing the **literal** puzzles in the room.
+[Framework] Someone's coming to town!
+
+All answers were provided after completing the **literal** puzzles in the room.
 
 1. Who is the adversary that attacked Santa's network this year?
 2. What's the flag that they left behind?

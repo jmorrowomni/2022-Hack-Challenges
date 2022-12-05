@@ -1,4 +1,4 @@
-$stream_reader = New-Object System.IO.StreamReader{.\day1input.txt}
+$stream_reader = New-Object System.IO.StreamReader{aoc\Day 1\day1input.txt}
 $line_number = 1
 $calories = 0
 $total = 0
